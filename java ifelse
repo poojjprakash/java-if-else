@@ -1,0 +1,12 @@
+public class Main
+{
+	public static void main(String[] args) {
+	   
+	   int age=28, weight=50;
+	    if(age>=18)
+	    if(weight>=50)
+	        System.out.println("donate the blood");
+	    else
+	            System.out.println("under the weight");
+	    else
+	    System.out.println("age pb");
